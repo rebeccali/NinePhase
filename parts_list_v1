@@ -1,0 +1,152 @@
+Partlist
+
+Exported from l3lfinal.sch at 11/17/2015 11:21:51 AM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device         Package        Library              Sheet
+
+C1       .1U            C-USC0805K     C0805K         rcl                  1
+C2       2.2u           C-USC0805K     C0805K         rcl                  1
+C3                      C-USC1206K     C1206K         rcl                  1
+C4                      C-USC1206K     C1206K         rcl                  1
+C5       1u             C-USC0805K     C0805K         rcl                  1
+C6       22n            C-USC0805K     C0805K         rcl                  1
+C7       2.2u           C-USC0805K     C0805K         rcl                  1
+C8       1u             C-USC0805K     C0805K         rcl                  1
+C9                      C-USC0805K     C0805K         rcl                  1
+C10      22n            C-USC0805K     C0805K         rcl                  1
+C11      2.2u           C-USC0805K     C0805K         rcl                  1
+C12      1u             C-USC0805K     C0805K         rcl                  1
+C13      1u             C-USC0805K     C0805K         rcl                  1
+C14      2.2u           C-USC0805K     C0805K         rcl                  1
+C15      1u             C-USC0805K     C0805K         rcl                  1
+C16      22n            C-USC0805K     C0805K         rcl                  1
+C17      2.2u           C-USC0805K     C0805K         rcl                  1
+C18      1u             C-USC0805K     C0805K         rcl                  1
+C19      1u             C-USC0805K     C0805K         rcl                  1
+C20      2.2u           C-USC0805K     C0805K         rcl                  1
+C21      1u             C-USC0805K     C0805K         rcl                  1
+C22      1u             C-USC0805K     C0805K         rcl                  1
+C23                     C-USC1206K     C1206K         rcl                  1
+C24      .1u            C-USC0805K     C0805K         rcl                  1
+C25      1u             C-USC0805K     C0805K         rcl                  1
+C26      1u             C-USC0805K     C0805K         rcl                  1
+C27      1u             C-USC0805K     C0805K         rcl                  1
+C28                     C-USC0805K     C0805K         rcl                  1
+C29                     C-USC0805K     C0805K         rcl                  1
+C30                     C-USC0805K     C0805K         rcl                  1
+C31                     C-USC0805K     C0805K         rcl                  1
+C32      1000u          CPOL-USE5-13   E5-13          rcl                  1
+C33                     C-USC0805K     C0805K         rcl                  1
+C34                     C-USC0805K     C0805K         rcl                  1
+C35                     C-USC0805K     C0805K         rcl                  1
+C36                     C-USC0805K     C0805K         rcl                  1
+C37                     C-USC0805K     C0805K         rcl                  1
+C38      1u             C-USC0805K     C0805K         rcl                  1
+C39      1u             C-USC0805K     C0805K         rcl                  1
+C40      1u             C-USC0805K     C0805K         rcl                  1
+C41      1u             C-USC0805K     C0805K         rcl                  1
+C42      1u             C-USC0805K     C0805K         rcl                  1
+C43      1u             C-USC0805K     C0805K         rcl                  1
+GND      12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
+HALL_L                  FE05-1         FE05-1         con-lsta             1
+HALL_R                  FE05-1         FE05-1         con-lsta             1
+HALL_S                  FE05-1         FE05-1         con-lsta             1
+IC1      DRV8302        DRV8302        TSSOP-56_3     RoboJackets-PowerICs 1
+IC2      7805DT         7805DT         TO252          linear               1
+IC3      DRV8302        DRV8302        TSSOP-56_3     RoboJackets-PowerICs 1
+IC4      DRV8302        DRV8302        TSSOP-56_3     RoboJackets-PowerICs 1
+LOGIC                   PINHD-1X2      1X02           pinhead              1
+PHASE_AL 12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
+PHASE_AR 12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
+PHASE_AS 12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
+PHASE_BL 12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
+PHASE_BR 12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
+PHASE_BS 12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
+PHASE_CL 12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
+PHASE_CR 12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
+PHASE_CS 12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
+Q1       PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q2       PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q3       PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q4       PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q5       PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q6       PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q7       PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q8       PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q9       PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q10      PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q11      PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q12      PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q13      PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q14      PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q15      PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q16      PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q17      PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+Q18      PSMN7R0-100PS  PSMN7R0-100PS  TO220          l3l_final            1
+R1       0              R-US_R0805     R0805          resistor             1
+R2       10             R-US_R0805     R0805          rcl                  1
+R3       10             R-US_R0805     R0805          rcl                  1
+R4       10             R-US_R0805     R0805          rcl                  1
+R5       10             R-US_R0805     R0805          rcl                  1
+R6       10             R-US_R0805     R0805          rcl                  1
+R7       10             R-US_R0805     R0805          rcl                  1
+R8       0              R-US_R0805     R0805          resistor             1
+R9                      R-US_R0805     R0805          resistor             1
+R10                     R-US_R0805     R0805          resistor             1
+R11      0              R-US_R0805     R0805          resistor             1
+R12                     R-US_R0805     R0805          rcl                  1
+R13                     R-US_R0805     R0805          rcl                  1
+R14                     R-US_R0805     R0805          rcl                  1
+R15                     R-US_R0805     R0805          rcl                  1
+R16                     R-US_R0805     R0805          rcl                  1
+R17                     R-US_R0805     R0805          rcl                  1
+R18                     R-US_R0805     R0805          resistor             1
+R19                     R-US_R0805     R0805          resistor             1
+R20      0              R-US_R0805     R0805          resistor             1
+R21                     R-US_R0805     R0805          rcl                  1
+R22                     R-US_R0805     R0805          rcl                  1
+R23                     R-US_R0805     R0805          rcl                  1
+R24                     R-US_R0805     R0805          rcl                  1
+R25                     R-US_R0805     R0805          rcl                  1
+R26                     R-US_R0805     R0805          rcl                  1
+R27                     R-US_R0805     R0805          resistor             1
+R28                     R-US_R0805     R0805          resistor             1
+R29                     R-US_R2512     R2512          rcl                  1
+R30                     R-US_R2512     R2512          rcl                  1
+R31      1m             R-US_R2512     R2512          rcl                  1
+R32      1m             R-US_R2512     R2512          rcl                  1
+R33                     R-US_R2512     R2512          rcl                  1
+R34                     R-US_R2512     R2512          rcl                  1
+R35      10k            R-US_R0805     R0805          resistor             1
+R36      10k            R-US_R0805     R0805          resistor             1
+R37      10k            R-US_R0805     R0805          resistor             1
+R38                     R-US_R0805     R0805          resistor             1
+R39      0              R-US_R0805     R0805          resistor             1
+R40      0              R-US_R0805     R0805          resistor             1
+R41      0              R-US_R0805     R0805          resistor             1
+R42      0              R-US_R0805     R0805          resistor             1
+R43      0              R-US_R0805     R0805          resistor             1
+R44      0              R-US_R0805     R0805          resistor             1
+R45      0              R-US_R0805     R0805          resistor             1
+R46      0              R-US_R0805     R0805          resistor             1
+R47      0              R-US_R0805     R0805          resistor             1
+R48      0              R-US_R0805     R0805          resistor             1
+R49      0              R-US_R0805     R0805          resistor             1
+R50      0              R-US_R0805     R0805          resistor             1
+R51      0              R-US_R0805     R0805          resistor             1
+R52      0              R-US_R0805     R0805          resistor             1
+R53      0              R-US_R0805     R0805          resistor             1
+R54      0              R-US_R0805     R0805          resistor             1
+R55      0              R-US_R0805     R0805          resistor             1
+S_POT                   PINHD-1X3      1X03           pinhead              1
+T_L                     PINHD-1X3      1X03           pinhead              1
+T_R                     PINHD-1X3      1X03           pinhead              1
+T_S                     PINHD-1X3      1X03           pinhead              1
+U$1      ARDUINOPROMINI ARDUINOPROMINI ARDUINOPROMINI l3l_final            1
+U$2      ARDUINOPROMINI ARDUINOPROMINI ARDUINOPROMINI l3l_final            1
+U$3      ARDUINOPROMINI ARDUINOPROMINI ARDUINOPROMINI l3l_final            1
+VDD      12AWG_PAD      12AWG_PAD      12AWG_PAD      tutorial             1
